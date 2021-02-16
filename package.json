@@ -1,0 +1,20 @@
+{
+  "name": "OptimalBunkeringRoute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^7.1.0",
+    "puppeteer-extra": "^3.1.16",
+    "puppeteer-extra-plugin-adblocker": "^2.11.10",
+    "serverless-http": "^2.7.0"
+  }
+}

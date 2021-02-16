@@ -1,0 +1,10 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# secret keys and files
+test-key-pair-useast1.ppk
+test.ppk
